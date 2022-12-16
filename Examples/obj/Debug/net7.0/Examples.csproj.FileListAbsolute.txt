@@ -1,0 +1,15 @@
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/bin/Debug/net7.0/Examples
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/bin/Debug/net7.0/Examples.deps.json
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/bin/Debug/net7.0/Examples.runtimeconfig.json
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/bin/Debug/net7.0/Examples.dll
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/bin/Debug/net7.0/Examples.pdb
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/obj/Debug/net7.0/Examples.csproj.AssemblyReference.cache
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/obj/Debug/net7.0/Examples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/obj/Debug/net7.0/Examples.AssemblyInfoInputs.cache
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/obj/Debug/net7.0/Examples.AssemblyInfo.cs
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/obj/Debug/net7.0/Examples.csproj.CoreCompileInputs.cache
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/obj/Debug/net7.0/Examples.dll
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/obj/Debug/net7.0/refint/Examples.dll
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/obj/Debug/net7.0/Examples.pdb
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/obj/Debug/net7.0/Examples.genruntimeconfig.cache
+/Users/vladimirsavelev/Desktop/C#/Lesson 1/Examples/obj/Debug/net7.0/ref/Examples.dll
